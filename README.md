@@ -1,6 +1,6 @@
-# ChronicleHub - A Blogging Application
+# Blogify - A Blogging Application
 
-ChronicleHub is a web application that allows authenticated users to create, view, and comment on blogs. It's built using Express.js for the backend, MongoDB for the database, and EJS (Embedded JavaScript) for the frontend templates.
+It is a web application that allows authenticated users to create, view, and comment on blogs. It's built using Express.js for the backend, MongoDB for the database, and EJS (Embedded JavaScript) for the frontend templates.
 
 ## Features
 
